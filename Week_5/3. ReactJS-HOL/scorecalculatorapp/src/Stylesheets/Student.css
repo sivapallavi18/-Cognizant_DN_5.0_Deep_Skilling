@@ -1,0 +1,33 @@
+.student-container{
+    width:400px;
+    margin:60px auto;
+    text-align:center;
+}
+
+.student-container h1{
+    color:brown;
+    font-size:55px;
+    margin-bottom:40px;
+}
+
+.student-container h2{
+    font-size:28px;
+    font-weight:bold;
+    margin:12px;
+}
+
+.blue{
+    color:blue;
+}
+
+.red{
+    color:red;
+}
+
+.purple{
+    color:purple;
+}
+
+.green{
+    color:green;
+}
