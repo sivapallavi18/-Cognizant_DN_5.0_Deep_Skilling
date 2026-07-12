@@ -1,0 +1,16 @@
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+ul {
+  font-size: 22px;
+}
+
+li {
+  margin: 8px 0;
+}

@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.course,
+.book,
+.blog {
+  padding: 20px;
+  min-width: 250px;
+}
+
+.book,
+.blog {
+  border-left: 4px solid green;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2,
+h3,
+h4,
+p {
+  margin-left: 10px;
+}
