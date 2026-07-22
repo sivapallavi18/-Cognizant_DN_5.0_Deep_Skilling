@@ -1,1 +1,0 @@
-<note> Hello from main</note>
